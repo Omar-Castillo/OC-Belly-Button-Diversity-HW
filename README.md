@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# OC-Belly-Button-Diversity-HW
+>>>>>>> ce366cbe202c65ed78393a92b9ec6e6bf52e8730
 # Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
