@@ -1,0 +1,23 @@
+.jumbotron {
+    position: relative;
+    height: 300px;
+    padding: 20px;
+    margin: 0;
+    background-image: url(“https://ak6.picdn.net/shutterstock/videos/26348666/thumb/3.jpg“);
+    background-attachment: static;
+    background-position: center;
+    background-size: cover;
+ }
+ 
+ h2 {
+    position: relative;
+    padding-top: 50px;
+    font-weight: 340;
+ 
+ 
+ }
+ 
+ p {
+    margin-top: -8px;
+ 
+ }
