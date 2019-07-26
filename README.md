@@ -4,6 +4,12 @@
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
+## Completed Biodiversity Application
+
+See my completed Biodiversity Dashboard appication below!
+
+https://oc-belly-biodiversity-hw.herokuapp.com/
+
 ## Step 1 - Plotly.js
 
 Use Plotly.js to build interactive charts for your dashboard.
